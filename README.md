@@ -1,5 +1,3 @@
-# DeepSeek-GPU
-how to use public deep seek modle cheaply.
 # 如何通过Cherry Studio轻松使用DeepSeek满血付费版
 
 ## 背景介绍
